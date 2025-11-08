@@ -1,0 +1,15 @@
+# Java/build
+*.class
+*.jar
+*.log
+*.zip
+# temp/magpie
+_magpie_logs/
+_magpie_work/
+SBSE_logs/
+MST_experiment_original/
+MST_magpie_candidate_test/
+# editor
+*.swp
+.vscode/
+.idea/
